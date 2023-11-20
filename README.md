@@ -1,6 +1,6 @@
 # GFPGAN
 
-GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior
+[One-click Face Swapper and Restoration powered by insightface.](https://github.com/haofanwang/inswapper)
 
 ## Dependencies
 
