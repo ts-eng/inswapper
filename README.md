@@ -1,4 +1,4 @@
-# GFPGAN
+# Inswapper
 
 [One-click Face Swapper and Restoration powered by insightface.](https://github.com/haofanwang/inswapper)
 
